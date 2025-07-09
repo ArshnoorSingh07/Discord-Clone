@@ -82,11 +82,11 @@ You can deploy this static site using:
 ## 🖼️ Screenshots
 
 # Desktop View
-![Landing Page Desktop](screenshots/Windows%20View.png)
+![Landing Page Desktop](Screenshots/Windows%20View.png)
 
 # Mobile View
-![Mobile View 1](screenshots/Mobile1.png)
-![Mobile View 2](screenshots/Mobile2.png)
+![Mobile View 1](Screenshots/Mobile1.png)
+![Mobile View 2](Screenshots/Mobile2.png)
 
 ---
 
