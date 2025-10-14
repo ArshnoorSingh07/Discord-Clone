@@ -4,7 +4,7 @@ A fully responsive and feature-rich clone of the official [Discord](https://disc
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 This project aims to practice and demonstrate modern frontend development using:
 
@@ -15,7 +15,7 @@ This project aims to practice and demonstrate modern frontend development using:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 discord-landing-page/
@@ -37,17 +37,17 @@ discord-landing-page/
 
 ---
 
-## 🚀 Features
+## Features
 
-- ✅ **Responsive Design** – Works across devices (mobile, tablet, desktop)
-- 🎨 **Tailwind CSS** – Clean, scalable, and utility-first styling
-- 🔤 **Custom Fonts** – Whitney, Ginto, and ggSans fully integrated
-- ⚡ **Performance-Optimized** – No heavy JavaScript, fast-loading static site
-- 🧩 **Modular Sections** – Hero, Features, CTA, Footer
+-  **Responsive Design** – Works across devices (mobile, tablet, desktop)
+-  **Tailwind CSS** – Clean, scalable, and utility-first styling
+-  **Custom Fonts** – Whitney, Ginto, and ggSans fully integrated
+-  **Performance-Optimized** – No heavy JavaScript, fast-loading static site
+-  **Modular Sections** – Hero, Features, CTA, Footer
 
 ---
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 1. **Clone the repository**
    ```bash
@@ -69,7 +69,7 @@ discord-landing-page/
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
 You can deploy this static site using:
 
@@ -79,7 +79,7 @@ You can deploy this static site using:
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
 # Desktop View
 ![Landing Page Desktop](Screenshots/Windows%20View.png)
@@ -90,7 +90,7 @@ You can deploy this static site using:
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Font Awesome](https://fontawesome.com/)
@@ -98,13 +98,13 @@ You can deploy this static site using:
 
 ---
 
-## 📝 License
+##  License
 
 This project is intended for **educational and learning purposes only**. It is not affiliated with or endorsed by Discord Inc.
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 - Design inspired by [Discord.com](https://discord.com/)
 - Icons from [Font Awesome](https://fontawesome.com/)
@@ -112,7 +112,7 @@ This project is intended for **educational and learning purposes only**. It is n
 
 ---
 
-## ✍️ Author
+##  Author
 
 **Arshnoor Singh**  
 [GitHub Profile](https://github.com/ArshnoorSingh07/)
