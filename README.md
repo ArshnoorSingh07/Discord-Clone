@@ -100,7 +100,7 @@ You can deploy this static site using:
 
 ##  License
 
-This project is intended for **educational and learning purposes only**. It is not affiliated with or endorsed by Discord Inc
+This project is intended for **educational and learning purposes only**. It is not affiliated with or endorsed by Discord Inc.
 
 ---
 
